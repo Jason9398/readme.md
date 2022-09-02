@@ -58,5 +58,7 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Link
 
 ### Test Image
+![Dracule_Mihawk_Anime_Infobox](https://user-images.githubusercontent.com/71345217/188212738-f098a349-6c97-4ec3-ad13-516b238b02eb.png)
 
 ### Test GIF
+![c4cece6bd1d909f512a223b68baedc6ea87c64eb](https://user-images.githubusercontent.com/71345217/188212751-9c6fe3eb-6814-45a8-8bfd-e895a73992fc.jpeg)
